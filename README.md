@@ -1,13 +1,17 @@
-# Getting Started with Create React App
+# AltunIT.nl | Authentication Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Build with
+* [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Final Result
 
-In the project directory, you can run:
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.png"/>
+
+## Installation
+Once you have cloned the project to your local machine, first install the node_modules
+by running the following command in the terminal:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
